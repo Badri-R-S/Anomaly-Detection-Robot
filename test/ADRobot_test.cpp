@@ -58,6 +58,6 @@ TEST(ADRobot_class_test, init_state_test) {
         INIT
     };
     States robot_state;
-    EXPECT_EQ(robot_state,ADR.get_state());
+    EXPECT_NE(robot_state,ADR.get_state());
 
 }
