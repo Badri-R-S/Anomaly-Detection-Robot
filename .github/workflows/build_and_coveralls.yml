@@ -61,7 +61,6 @@ jobs:
           catkin_make tests
           catkin_make run_tests anomaly_library
            
-
       - name: Configure Codecov
         run: |
           lcov --directory . --capture --output-file coverage.info
