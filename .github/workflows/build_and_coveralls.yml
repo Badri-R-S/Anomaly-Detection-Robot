@@ -59,7 +59,7 @@ jobs:
           . /opt/ros/$ROS_DISTRO/setup.bash
           catkin config --cmake-args -DCMAKE_CXX_FLAGS="-Wall -Wno-unused --coverage -fno-inline -fno-inline-small-functions -fno-default-inline" -DCMAKE_C_FLAGS="-Wall -Wno-unused --coverage -fno-inline -fno-inline-small-functions -fno-default-inline" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_EXE_LINKER_FLAGS="-lgcov"
           catkin_make tests
-          catkin_make run_test anomaly_library
+          catkin_make run_tests anomaly_library
            
 
       - name: Configure Codecov
