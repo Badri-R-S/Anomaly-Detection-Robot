@@ -21,7 +21,11 @@ git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 git clone https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
 ```
 
+### AIP Planning sheet
+https://docs.google.com/spreadsheets/d/1uHDDDbMvHY4QyDjH6F0JqCa6SoQ2CfuYaCJu3RNxHEI/edit?usp=sharing
 
+### Sprint planning sheet
+https://docs.google.com/document/d/1wdccIWWXtUxuXXT_2JpvLoirFL0By40nLpI3DHsvV1o/edit?usp=sharing
 ### Presentation link
 https://docs.google.com/presentation/d/1BKFK73goBxVEZzWt95vCPfu6BDekYOlmda1Gdb-Nc90/edit?usp=sharing
 
